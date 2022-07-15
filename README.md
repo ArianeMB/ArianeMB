@@ -1,8 +1,8 @@
 ### Hi there 👋
 Sou Ariane estudante de programação!!!!
 
- 🔭 I’m currently working on projtos de Java
-  🌱 I’m currently learning  Java, JavaScript, HTML, CSS
+-  🔭 I’m currently working on projtos de Java
+- 🌱 I’m currently learning  Java, JavaScript, HTML, CSS
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
